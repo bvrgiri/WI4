@@ -1,0 +1,5 @@
+Hello,
+
+The robot has encountred unanticipated or unknown exception. Please find attached screenshot taken:{0}.
+
+Thank You
